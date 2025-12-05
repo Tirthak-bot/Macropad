@@ -1,6 +1,9 @@
 # Macropad-UwU
 A Macropad with 9 keys, A Knob and A display, all easy to customize with KMK Firmware.
 
+<img width="407" height="483" alt="Screenshot 2025-12-05 161424" src="https://github.com/user-attachments/assets/352219e2-4928-4c8d-8e7b-1c44e02b51c9" />
+
+
 # Schematic
 <img width="990" height="441" alt="Screenshot 2025-11-30 121114" src="https://github.com/user-attachments/assets/4c19f817-01d7-45a5-89fb-9976ed594cfd" />
 
