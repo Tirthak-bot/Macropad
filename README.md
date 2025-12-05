@@ -13,6 +13,7 @@ The PCB was designed in KiCad and V1 was scrapped because of mismanagement of GP
 
 # Case
 The case was designed in Fusion 360.
+
 <img width="417" height="423" alt="Screenshot 2025-12-03 230010" src="https://github.com/user-attachments/assets/5dd02ed9-b368-4492-b06e-c460787237c2" />
 <img width="532" height="394" alt="Screenshot 2025-12-03 225805" src="https://github.com/user-attachments/assets/16028455-22fe-4983-8c9c-41394d6e7bfa" />
 
