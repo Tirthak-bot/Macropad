@@ -1,4 +1,4 @@
-import Board
+import board
 
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.modules.encoder import EncoderHandler
@@ -57,5 +57,4 @@ keyboard.keymap = [
 
 
 
-if __name__ == '__main__':
-    keyboard.go()
+if __name__ == '__main__':keyboard.go()
