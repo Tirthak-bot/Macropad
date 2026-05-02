@@ -1,4 +1,4 @@
-# Macropad-UwU
+# Macropad
 A Macropad with 9 keys, A Knob and A display, all easy to customize with KMK Firmware.
 
 <img width="407" height="483" alt="Screenshot 2025-12-05 161424" src="https://github.com/user-attachments/assets/352219e2-4928-4c8d-8e7b-1c44e02b51c9" />
@@ -22,11 +22,11 @@ The case was designed in Fusion 360.
 
 # Parts Used
 
-1X Seeed XIAO RP2040,
-9X 1N4148 Diodes,
-9X MX-Style switches,
-1X EC11 Rotary encoder,
-1X 0.91 inch OLED display,
-9X DSA Keycaps,
-4X M3x16mm screws,
+1X Seeed XIAO RP2040 <br>
+9X 1N4148 Diodes <br>
+9X MX-Style switches <br>
+1X EC11 Rotary encoder <br>
+1X 0.91 inch OLED display <br>
+9X DSA Keycaps <br>
+4X M3x16mm screws <br>
 4X M3x5mx4mm Heatset Inserts
